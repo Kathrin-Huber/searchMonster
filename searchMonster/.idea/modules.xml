@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/search-api/search-api.iml" filepath="$PROJECT_DIR$/search-api/search-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/search-implementation/search-implementation.iml" filepath="$PROJECT_DIR$/search-implementation/search-implementation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/search-main/search-main.iml" filepath="$PROJECT_DIR$/search-main/search-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/searchMonster.iml" filepath="$PROJECT_DIR$/searchMonster.iml" />
+    </modules>
+  </component>
+</project>
